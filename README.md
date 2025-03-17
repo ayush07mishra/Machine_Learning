@@ -12,23 +12,23 @@ This project predicts whether a passenger survived the Titanic disaster using ma
    ```bash
    git clone https://github.com/your-username/titanic-survival-prediction.git
    cd titanic-survival-prediction
-#Install dependencies:
+# Install dependencies:
 pip install pandas numpy scikit-learn seaborn matplotlib joblib
 
-#Run the model:
+# Run the model:
 python titanic_model.py
 
-#🎯 Model Performance
+# 🎯 Model Performance
 Accuracy: ~80%
 Precision, Recall, F1 Score provided in the output.
 
-#📂 Repository Structure
+# 📂 Repository Structure
 ├── titanic_model.py  # Main Python script
 ├── README.md         # Project documentation
 └── titanic_model.pkl # Trained ML model
 
 
-#📖 Future Enhancements
+# 📖 Future Enhancements
 Hyperparameter tuning using GridSearchCV.
 Deployment as a web app using Flask.
 
