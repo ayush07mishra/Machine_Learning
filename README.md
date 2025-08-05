@@ -48,3 +48,6 @@ python breast_cancer_model.py
 
 ### 4.  Run the Streamlit app
 streamlit run streamlit_app.py
+
+
+###LIVE LINK->https://breast-cancer-prediction01.streamlit.app/
