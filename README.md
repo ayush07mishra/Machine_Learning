@@ -39,9 +39,11 @@ This project uses the Breast Cancer Wisconsin (Diagnostic) Dataset to build a bi
 ```bash
 git clone https://github.com/your-username/breast-cancer-predictor.git
 cd breast-cancer-predictor
-2. Install dependencies
+```
+### 2.  Install dependencies
 pip install -r requirements.txt
-3. Train the model (optional, if not using existing .pkl files)
+### 3.  Train the model (optional, if not using existing .pkl files)
 python breast_cancer_model.py
-4. Run the Streamlit app
+
+### 4.  Run the Streamlit app
 streamlit run streamlit_app.py
