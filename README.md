@@ -18,6 +18,7 @@ This project uses the Breast Cancer Wisconsin (Diagnostic) Dataset to build a bi
 ---
 
 ## 🛠️ Project Structure
+```bash
 📁 breast-cancer-project/
 │
 ├── breast_cancer.csv # Dataset
@@ -27,7 +28,7 @@ This project uses the Breast Cancer Wisconsin (Diagnostic) Dataset to build a bi
 ├── streamlit_app.py # Streamlit frontend
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
-
+```
 
 
 ---
